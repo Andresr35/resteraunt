@@ -1,0 +1,32 @@
+nav{
+    background-color: rgb(129, 146, 129);
+    box-sizing: border-box;
+    padding: 20px 0;
+}
+h1{
+    margin-left: 50px;
+    display: inline;
+}
+ul{
+    margin-right: 10%;
+    display: inline;
+    float: right;
+    list-style-type: none;
+}
+li{
+    margin-left: 10px;
+    display: inline;
+}
+html{
+    background-color: rgb(201, 151, 151);
+}
+main{
+    text-align: center;
+    color: white;
+    padding: 30px 50px;
+    font-size: 18pt;
+}
+button{
+    background-color: rgb(129, 146, 129);
+    color: black;
+}
