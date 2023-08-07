@@ -18,7 +18,7 @@ li{
     display: inline;
 }
 html{
-    background-color: rgb(201, 151, 151);
+    background-color: rgb(216, 189, 189);
 }
 main{
     text-align: center;
@@ -29,4 +29,12 @@ main{
 button{
     background-color: rgb(129, 146, 129);
     color: black;
+    border-radius: 10px;
+}
+img{
+    background-color: white;
+    padding:5px 5px;
+    display: block;
+    margin: 10px auto;
+    border-radius: 20%;
 }
