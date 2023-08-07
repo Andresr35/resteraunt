@@ -1,0 +1,1 @@
+(()=>{"use strict";document.createElement("main").innerHTML="This is the contact page... dont contact me"})();
